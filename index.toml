@@ -1341,21 +1341,6 @@ file = "mods/SSRD-0.5-1.21.1.jar"
 hash = "1da596b3fb2ce93db4ce123b68f6bba9bfdf76cf5f63089816c529934aae2dc0"
 
 [[files]]
-file = "mods/advanced-backups.pw.toml"
-hash = "9c085dc0d1c5ea878e27ef85e2633dfb7ff2223aa14be3b00ae33478c6ef2335"
-metafile = true
-
-[[files]]
-file = "mods/advancedperipherals.pw.toml"
-hash = "37a7a5a7d013603e5b1ea8a472f318b8e0dce6a78abd163e851721415263a519"
-metafile = true
-
-[[files]]
-file = "mods/aeronautics-dyeable-components.pw.toml"
-hash = "b218b7696365829e01cc3b6844913c757836d1ebdb0c49a9abf7a7fcbc0f6678"
-metafile = true
-
-[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "62611a2b798035390a280b158563cfa590ab6f3465b77be46949839809dbe77f"
 metafile = true
