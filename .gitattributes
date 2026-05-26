@@ -1,9 +1,1 @@
-# Protect all configuration and data files from line ending alterations
-*.toml binary
-*.json binary
-*.json5 binary
-*.ini binary
-*.properties binary
-*.txt binary
-*.bak binary
-*.local binary
+* binary
