@@ -1,0 +1,53 @@
+[
+    {
+        "action": "tab_order",
+        "order": [
+            "minecraft:building_blocks",
+            "minecraft:colored_blocks",
+            "minecraft:natural_blocks",
+            "minecraft:functional_blocks",
+            "minecraft:redstone_blocks",
+            "minecraft:tools_and_utilities",
+            "minecraft:combat",
+            "minecraft:food_and_drinks",
+            "minecraft:ingredients",
+            "minecraft:spawn_eggs",
+            "recreative:aero_tools",
+            "create:base",
+            "simulated:main_tab",
+            "create_connected:main",
+            "railways:main",
+            "createdieselgenerators:cdg_creative_tab",
+            "tfmg:tfmg_main",
+            "createbigcannons:base",
+            "create_radar:radar",
+            "createcasing:tab",
+            "farmersdelight:farmersdelight",
+            "alexsmobs:alexsmobs",
+            "waystones:waystones",
+            "create_power_loader:main",
+            "numismatics:main",
+            "create_enchantment_industry:base",
+            "cbc_at:simple_tab",
+            "createaddition:createaddition",
+            "copycats:main",
+            "copycats:functional",
+            "createdeco:bricks_tab",
+            "createframed:create_framed",
+            "interiors:main",
+            "railways:palettes",
+            "bellsandwhistles:bells_and_whistles_tab",
+            "tfmg:tfmg_decoration",
+            "create:palettes",
+            "dndecor:base",
+            "create_dragons_plus:base",
+            "createdeco:props_tab",
+            "railways:tracks",
+            "powergrid:main",
+            "vanillabackport:vanilla_backport"
+
+        ]
+    }
+    
+
+]

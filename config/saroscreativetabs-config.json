@@ -1,0 +1,14 @@
+{
+  "_comment": "Configuration for Saro\u0027s Creative Tab mod",
+  "defaultTabPermission": "EVERYONE",
+  "createTabPermission": "OP_LEVEL_2",
+  "deleteTabPermission": "OP_LEVEL_2",
+  "modifyTabPermission": "EVERYONE",
+  "enableDebugLogging": false,
+  "_permissionLevels": {
+    "EVERYONE": "All players can perform this action",
+    "OP_LEVEL_2": "Only operators with level 2+ can perform this action",
+    "OP_LEVEL_3": "Only operators with level 3+ can perform this action",
+    "OP_LEVEL_4": "Only operators with level 4 can perform this action"
+  }
+}

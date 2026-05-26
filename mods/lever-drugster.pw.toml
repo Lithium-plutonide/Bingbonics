@@ -1,0 +1,13 @@
+name = "Lever durgster"
+filename = "analogleverdrag-neoforge-1.21.1-1.4.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GQNtImhh/versions/Ixy9jHpF/analogleverdrag-neoforge-1.21.1-1.4.5.jar"
+hash-format = "sha512"
+hash = "6291f666d750ca1959a34824d32fd1dea3bed5efea097eb23e1563fd696c333d4f1ced3580cddcc3ef1ab348d431d06636ebd8c197517ab0cc2db511d9504269"
+
+[update]
+[update.modrinth]
+mod-id = "GQNtImhh"
+version = "Ixy9jHpF"

@@ -1,0 +1,14 @@
+[
+  {
+    "action": "modify_tab",
+    "tab": [
+      "drivebywiretypewriter:main"
+    ],
+    "icon": "drivebywiretypewriter:typewriter_hub",
+    "remove_items": [],
+    "add_items": [
+      "drivebywiretypewriter:typewriter_hub"
+    ],
+    "order": []
+  }
+]

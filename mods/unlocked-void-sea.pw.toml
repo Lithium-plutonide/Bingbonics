@@ -1,0 +1,13 @@
+name = "Unlocked Void Sea  - Aeronautics Addon"
+filename = "unlockedvoidsea-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vsv72IJr/versions/tDH37oNY/unlockedvoidsea-1.1.0.jar"
+hash-format = "sha512"
+hash = "c4c58119be0396d0e9e6c0765517a25ae47a992af456a2c8d502198f155c821e26fed926bb09a6f10babe2fbe4a980742829eb91ecc9b899bd062adffba0b0a7"
+
+[update]
+[update.modrinth]
+mod-id = "vsv72IJr"
+version = "tDH37oNY"

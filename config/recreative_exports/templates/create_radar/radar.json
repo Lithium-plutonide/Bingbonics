@@ -1,0 +1,33 @@
+[
+  {
+    "action": "modify_tab",
+    "tab": [
+      "create_radar:radar"
+    ],
+    "icon": "create_radar:monitor",
+    "remove_items": [],
+    "add_items": [
+      "create_radar:monitor",
+      "create_radar:data_link",
+      "create_radar:radar_bearing",
+      "create_radar:radar_receiver_block",
+      "create_radar:radar_plate_block",
+      "create_radar:radar_dish_block",
+      "create_radar:creative_radar_plate",
+      "create_radar:auto_yaw_controller",
+      "create_radar:auto_pitch_controller",
+      "create_radar:network_filterer",
+      "create_radar:fire_controller",
+      "create_radar:radar_safe_zone_designator",
+      "create_radar:ident_filter_item",
+      "create_radar:radar_filter_item",
+      "create_radar:target_filter_item",
+      "create_radar:binoculars",
+      "create_radar:guided_fuze",
+      "create_radar:identification_transponder",
+      "create_radar:plane_radar",
+      "create_radar:radar_warning_receiver"
+    ],
+    "order": []
+  }
+]

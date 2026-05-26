@@ -1,0 +1,39 @@
+[
+  {
+    "action": "modify_tab",
+    "tab": [
+      "recreative:aero_tools"
+    ],
+    "icon": "create_aeronautics_toolgun:portable_structure_container",
+    "remove_items": [],
+    "add_items": [
+      "aeroworks:gyroscope",
+      "aeroworks:joystick",
+      "simulated:creative_physics_staff",
+      "create_aeronautics_toolgun:structure_tool",
+      "create_aeronautics_toolgun:survival_structure_tool",
+      "create_aeronautics_toolgun:magnetic_gun",
+      "create_aeronautics_toolgun:creative_magnetic_gun",
+      "create_aeronautics_toolgun:portable_structure_container",
+      "drivebywire:wire",
+      "drivebywire:wire_cutter",
+      "drivebywire:backup_block",
+      "drivebywire:controller_hub",
+      "drivebywire:tweaked_controller_hub",
+      "create_tweaked_controllers:tweaked_linked_controller",
+      "drivebywiretypewriter:typewriter_hub",
+      "worldedit_items:wand_axe",
+      "worldedit_items:superpickaxe",
+      "worldedit_items:passthrough_compass",
+      "vsfluidlink:hose_connector",
+      "vsfluidlink:magnet_hose_connector",
+      "vsfluidlink:item_hose_connector",
+      "vsfluidlink:item_magnet_hose_connector",
+      "vsfluidlink:electric_wire_connector",
+      "vsfluidlink:electric_magnet_wire_connector",
+      "vsfluidlink:chain_connector",
+      "vsfluidlink:magnet_chain_connector"
+    ],
+    "order": []
+  }
+]

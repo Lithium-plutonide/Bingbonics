@@ -1,0 +1,7 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"minecraft:pale_hanging_moss"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"copycats:copycat_trapdoor"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:cogwheel"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:yellow_carpet"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

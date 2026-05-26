@@ -1,0 +1,310 @@
+[
+  {
+    "action": "modify_tab",
+    "tab": [
+      "advancedperipherals:advancedperipherals"
+    ],
+    "icon": "advancedperipherals:chat_box",
+    "remove_items": [],
+    "add_items": [
+      "advancedperipherals:environment_detector",
+      "advancedperipherals:chat_box",
+      "advancedperipherals:player_detector",
+      "advancedperipherals:me_bridge",
+      "advancedperipherals:rs_bridge",
+      "advancedperipherals:energy_detector",
+      "advancedperipherals:peripheral_casing",
+      "advancedperipherals:inventory_manager",
+      "advancedperipherals:block_reader",
+      "advancedperipherals:geo_scanner",
+      "advancedperipherals:nbt_storage",
+      "advancedperipherals:colony_integrator",
+      "advancedperipherals:chunk_controller",
+      "advancedperipherals:computer_tool",
+      "advancedperipherals:memory_card",
+      "advancedperipherals:end_automata_core",
+      "advancedperipherals:husbandry_automata_core",
+      "advancedperipherals:weak_automata_core",
+      "advancedperipherals:overpowered_weak_automata_core",
+      "advancedperipherals:overpowered_end_automata_core",
+      "advancedperipherals:overpowered_husbandry_automata_core",
+      "computercraft:turtle_normal",
+      {
+        "item": "computercraft:turtle_normal",
+        "components": {
+          "computercraft:right_turtle_upgrade": {
+            "id": "advancedperipherals:chatty_turtle"
+          }
+        }
+      },
+      {
+        "item": "computercraft:turtle_normal",
+        "components": {
+          "computercraft:right_turtle_upgrade": {
+            "id": "advancedperipherals:chunky_turtle"
+          }
+        }
+      },
+      {
+        "item": "computercraft:turtle_normal",
+        "components": {
+          "computercraft:right_turtle_upgrade": {
+            "id": "advancedperipherals:compass_turtle"
+          }
+        }
+      },
+      {
+        "item": "computercraft:turtle_normal",
+        "components": {
+          "computercraft:right_turtle_upgrade": {
+            "id": "advancedperipherals:end_automata"
+          }
+        }
+      },
+      {
+        "item": "computercraft:turtle_normal",
+        "components": {
+          "computercraft:right_turtle_upgrade": {
+            "id": "advancedperipherals:environment_turtle"
+          }
+        }
+      },
+      {
+        "item": "computercraft:turtle_normal",
+        "components": {
+          "computercraft:right_turtle_upgrade": {
+            "id": "advancedperipherals:geoscanner_turtle"
+          }
+        }
+      },
+      {
+        "item": "computercraft:turtle_normal",
+        "components": {
+          "computercraft:right_turtle_upgrade": {
+            "id": "advancedperipherals:husbandry_automata"
+          }
+        }
+      },
+      {
+        "item": "computercraft:turtle_normal",
+        "components": {
+          "computercraft:right_turtle_upgrade": {
+            "id": "advancedperipherals:overpowered_end_automata"
+          }
+        }
+      },
+      {
+        "item": "computercraft:turtle_normal",
+        "components": {
+          "computercraft:right_turtle_upgrade": {
+            "id": "advancedperipherals:overpowered_husbandry_automata"
+          }
+        }
+      },
+      {
+        "item": "computercraft:turtle_normal",
+        "components": {
+          "computercraft:right_turtle_upgrade": {
+            "id": "advancedperipherals:overpowered_weak_automata"
+          }
+        }
+      },
+      {
+        "item": "computercraft:turtle_normal",
+        "components": {
+          "computercraft:right_turtle_upgrade": {
+            "id": "advancedperipherals:player_turtle"
+          }
+        }
+      },
+      {
+        "item": "computercraft:turtle_normal",
+        "components": {
+          "computercraft:right_turtle_upgrade": {
+            "id": "advancedperipherals:weak_automata"
+          }
+        }
+      },
+      "computercraft:turtle_advanced",
+      {
+        "item": "computercraft:turtle_advanced",
+        "components": {
+          "computercraft:right_turtle_upgrade": {
+            "id": "advancedperipherals:chatty_turtle"
+          }
+        }
+      },
+      {
+        "item": "computercraft:turtle_advanced",
+        "components": {
+          "computercraft:right_turtle_upgrade": {
+            "id": "advancedperipherals:chunky_turtle"
+          }
+        }
+      },
+      {
+        "item": "computercraft:turtle_advanced",
+        "components": {
+          "computercraft:right_turtle_upgrade": {
+            "id": "advancedperipherals:compass_turtle"
+          }
+        }
+      },
+      {
+        "item": "computercraft:turtle_advanced",
+        "components": {
+          "computercraft:right_turtle_upgrade": {
+            "id": "advancedperipherals:end_automata"
+          }
+        }
+      },
+      {
+        "item": "computercraft:turtle_advanced",
+        "components": {
+          "computercraft:right_turtle_upgrade": {
+            "id": "advancedperipherals:environment_turtle"
+          }
+        }
+      },
+      {
+        "item": "computercraft:turtle_advanced",
+        "components": {
+          "computercraft:right_turtle_upgrade": {
+            "id": "advancedperipherals:geoscanner_turtle"
+          }
+        }
+      },
+      {
+        "item": "computercraft:turtle_advanced",
+        "components": {
+          "computercraft:right_turtle_upgrade": {
+            "id": "advancedperipherals:husbandry_automata"
+          }
+        }
+      },
+      {
+        "item": "computercraft:turtle_advanced",
+        "components": {
+          "computercraft:right_turtle_upgrade": {
+            "id": "advancedperipherals:overpowered_end_automata"
+          }
+        }
+      },
+      {
+        "item": "computercraft:turtle_advanced",
+        "components": {
+          "computercraft:right_turtle_upgrade": {
+            "id": "advancedperipherals:overpowered_husbandry_automata"
+          }
+        }
+      },
+      {
+        "item": "computercraft:turtle_advanced",
+        "components": {
+          "computercraft:right_turtle_upgrade": {
+            "id": "advancedperipherals:overpowered_weak_automata"
+          }
+        }
+      },
+      {
+        "item": "computercraft:turtle_advanced",
+        "components": {
+          "computercraft:right_turtle_upgrade": {
+            "id": "advancedperipherals:player_turtle"
+          }
+        }
+      },
+      {
+        "item": "computercraft:turtle_advanced",
+        "components": {
+          "computercraft:right_turtle_upgrade": {
+            "id": "advancedperipherals:weak_automata"
+          }
+        }
+      },
+      "computercraft:pocket_computer_normal",
+      {
+        "item": "computercraft:pocket_computer_normal",
+        "components": {
+          "computercraft:pocket_upgrade": {
+            "id": "advancedperipherals:chatty_pocket"
+          }
+        }
+      },
+      {
+        "item": "computercraft:pocket_computer_normal",
+        "components": {
+          "computercraft:pocket_upgrade": {
+            "id": "advancedperipherals:colony_pocket"
+          }
+        }
+      },
+      {
+        "item": "computercraft:pocket_computer_normal",
+        "components": {
+          "computercraft:pocket_upgrade": {
+            "id": "advancedperipherals:environment_pocket"
+          }
+        }
+      },
+      {
+        "item": "computercraft:pocket_computer_normal",
+        "components": {
+          "computercraft:pocket_upgrade": {
+            "id": "advancedperipherals:geoscanner_pocket"
+          }
+        }
+      },
+      {
+        "item": "computercraft:pocket_computer_normal",
+        "components": {
+          "computercraft:pocket_upgrade": {
+            "id": "advancedperipherals:player_pocket"
+          }
+        }
+      },
+      "computercraft:pocket_computer_advanced",
+      {
+        "item": "computercraft:pocket_computer_advanced",
+        "components": {
+          "computercraft:pocket_upgrade": {
+            "id": "advancedperipherals:chatty_pocket"
+          }
+        }
+      },
+      {
+        "item": "computercraft:pocket_computer_advanced",
+        "components": {
+          "computercraft:pocket_upgrade": {
+            "id": "advancedperipherals:colony_pocket"
+          }
+        }
+      },
+      {
+        "item": "computercraft:pocket_computer_advanced",
+        "components": {
+          "computercraft:pocket_upgrade": {
+            "id": "advancedperipherals:environment_pocket"
+          }
+        }
+      },
+      {
+        "item": "computercraft:pocket_computer_advanced",
+        "components": {
+          "computercraft:pocket_upgrade": {
+            "id": "advancedperipherals:geoscanner_pocket"
+          }
+        }
+      },
+      {
+        "item": "computercraft:pocket_computer_advanced",
+        "components": {
+          "computercraft:pocket_upgrade": {
+            "id": "advancedperipherals:player_pocket"
+          }
+        }
+      }
+    ],
+    "order": []
+  }
+]

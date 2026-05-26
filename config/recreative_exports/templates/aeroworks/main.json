@@ -1,0 +1,15 @@
+[
+  {
+    "action": "modify_tab",
+    "tab": [
+      "aeroworks:main"
+    ],
+    "icon": "aeroworks:joystick",
+    "remove_items": [],
+    "add_items": [
+      "aeroworks:gyroscope",
+      "aeroworks:joystick"
+    ],
+    "order": []
+  }
+]

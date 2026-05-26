@@ -1,0 +1,9 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"waystones:warp_dust"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"waystones:attuned_shard","components":{"waystones:attunement":[-73190946,-1906226309,-1941168223,-13865251]}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"simulated:engine_assembly"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"simulated:gyroscopic_mechanism"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:pumpkin_pie"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:brass_sheet"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
