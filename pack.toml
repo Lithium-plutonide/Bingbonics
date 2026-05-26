@@ -10,3 +10,6 @@ hash = "13c385c8b831f21120334c5fb42ea7bb94d6e4b8fba90271370974a290f7497b"
 [versions]
 minecraft = "1.21.1"
 neoforge = "21.1.230"
+
+[packwiz]
+compress-index = true
