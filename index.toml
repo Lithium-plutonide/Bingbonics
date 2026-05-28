@@ -473,12 +473,20 @@ file = "config/citadel-common.toml"
 hash = "6cade6912a3873af0b297eb2da7ffa4bf5bac23f5ccfe9511aea9f5755745758"
 
 [[files]]
+file = "config/climbable_ropes-client.toml"
+hash = "35cd0bcbc4b906d318ab55dc8c7cef22c47289042adc21a5511914a0d6620288"
+
+[[files]]
 file = "config/climbable_ropes-server-1.toml.bak"
+hash = "7a2cb1cd362b90220c40e42780f9a73ee606cab52b02618d2e331ef0dfffd56f"
+
+[[files]]
+file = "config/climbable_ropes-server-2.toml.bak"
 hash = "54c68b969f18965c7fd3c57aa147ef659a89187cedf73d48fb5bfb598ce81242"
 
 [[files]]
 file = "config/climbable_ropes-server.toml"
-hash = "7a2cb1cd362b90220c40e42780f9a73ee606cab52b02618d2e331ef0dfffd56f"
+hash = "54c68b969f18965c7fd3c57aa147ef659a89187cedf73d48fb5bfb598ce81242"
 
 [[files]]
 file = "config/colorwheel-client.toml"
@@ -657,8 +665,12 @@ file = "config/createtweakedcontrollers-client.toml"
 hash = "29a574cda8c1958ee8a4bcc370a6317acf5406ff3e07ed4b821ecc4f5134cc9f"
 
 [[files]]
-file = "config/dndecor-server.toml"
+file = "config/dndecor-server-1.toml.bak"
 hash = "faccba5a94a73907ea094de5145e20fc19219fa761d67aa1688287f40ab2e0c1"
+
+[[files]]
+file = "config/dndecor-server.toml"
+hash = "daaeeb6fa5aaaaf013bb024e9d18604c3d7b4677985e637963d68b50d43fd80a"
 
 [[files]]
 file = "config/drivebywire-common.toml"
@@ -670,7 +682,7 @@ hash = "da13c5bbd33e17050270f49fd151443f7aa8d16115c038c8d047c8844615b4d8"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "461e50ec3907caa3d95ff8290af388b05e6fd0fa5212e7b7b91a49c29ff936be"
+hash = "3a854009e69f89069a9786d27b8345a09b2b31c6870339edd201ebe6bacbf569"
 
 [[files]]
 file = "config/farmersdelight-client.toml"
@@ -706,7 +718,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "32ecec2dd8cca5b48f30bf4c21e4d75427c2fb536a87c00a6b3f177d47586dcf"
+hash = "04e943e24ede34f018e3d01b93d2cbd3f220e3c2e095206a309dc7dad6d6d022"
 
 [[files]]
 file = "config/jade/hide-blocks.json"
@@ -1242,7 +1254,7 @@ hash = "69673c9006b5deb69f684151a8c33bb0167a1a7d1c9af49adac3a6d8f86238a8"
 
 [[files]]
 file = "config/submarine_hull.json"
-hash = "bf755305d0b30ef0e097342e2a11f04315a4a265530fa2e427ba58bfd98d6664"
+hash = "0d7c8160d6a0240b892593f44f0922249efc416cfcfd278002ac226fc9f7f2d2"
 
 [[files]]
 file = "config/tabs_organizer-client.toml"
@@ -1322,7 +1334,7 @@ hash = "9757a6208de6780c7d86d61a75e997848a30a7e759f5e2f3e29d08ab7aa6383f"
 
 [[files]]
 file = "config/worldedit/worldedit.properties"
-hash = "9dbe721ae89f7955e59324b02006b4261d05623984c36403ea22f53353925507"
+hash = "9416a488319f2902b21a6bb3b4c36244df411bba6b813808fe0cdf71341fff47"
 
 [[files]]
 file = "config/worldeditcui.config.json"
@@ -1339,6 +1351,16 @@ hash = "5966e447c596d1dfae9653eb377d5d8ba5bdbff97b426792663ca945c2b4ddf2"
 [[files]]
 file = "mods/SSRD-0.5-1.21.1.jar"
 hash = "1da596b3fb2ce93db4ce123b68f6bba9bfdf76cf5f63089816c529934aae2dc0"
+
+[[files]]
+file = "mods/advanced-backups.pw.toml"
+hash = "9c085dc0d1c5ea878e27ef85e2633dfb7ff2223aa14be3b00ae33478c6ef2335"
+metafile = true
+
+[[files]]
+file = "mods/advancedperipherals.pw.toml"
+hash = "37a7a5a7d013603e5b1ea8a472f318b8e0dce6a78abd163e851721415263a519"
+metafile = true
 
 [[files]]
 file = "mods/aeronautics-dyeable-components.pw.toml"
@@ -1466,7 +1488,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics-climbable-rope.pw.toml"
-hash = "8fe5d200e7be3288c15ff8ff3298f592212bfc689b4e702cbd6df523ea2dc361"
+hash = "4826787724dabb396681358d97bce2e5649a4fbad2f210588231d8e7293740e8"
 metafile = true
 
 [[files]]
@@ -1486,7 +1508,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics-toolgun.pw.toml"
-hash = "d562b31fa8b250fc06fac0bd1580f10af44f3984c95fd63d09ff9d3cbfc1fac2"
+hash = "3cbdb270553a3b32f51f916dffd8b0ef37f427ca4f5daf28bc4fff63dcc54613"
 metafile = true
 
 [[files]]
@@ -1506,7 +1528,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-big-cannons-equally-opposite.pw.toml"
-hash = "98d8bff55c9c98b51ca1dd7b73012de33c448f452e628b46b6491a696a93667d"
+hash = "a6b68c1b0ebcaf4fa95013256679946adfc828a842a7ee9ae3579f7de135cadb"
 metafile = true
 
 [[files]]
@@ -1536,7 +1558,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-design-n-decor.pw.toml"
-hash = "bc4ef8bd7d32506703dcc175a62a12766addc393434ddbe8d17f01b071701943"
+hash = "e05bc0c3ee97da0dfcf9dabd3c3eaee0e90819091ead3f500ddc3b1caf77fe54"
 metafile = true
 
 [[files]]
@@ -1964,12 +1986,12 @@ metafile = true
 
 [[files]]
 file = "mods/wakes-reforged.pw.toml"
-hash = "1cc482ca6a74a015a3976d87770bd1313e55a6e83962089d4d193748fb98b8a1"
+hash = "bb8b5e8c8e488ce55f4afd50b2246afcd649f59989389395ff75331f5cd51f72"
 metafile = true
 
 [[files]]
 file = "mods/waystones-sable.pw.toml"
-hash = "e1c4d32608e9da4e92c6151c445196b75eb6b41893cb1a64f4c5f0ba205ae97a"
+hash = "f594a4eb1c1780d994e98f55e5bb046693caa90a24ae7cabb5b1d08fa38b2f3d"
 metafile = true
 
 [[files]]
