@@ -30,7 +30,7 @@ hash = "1da596b3fb2ce93db4ce123b68f6bba9bfdf76cf5f63089816c529934aae2dc0"
 
 [[files]]
 file = "mods/advanced-backups.pw.toml"
-hash = "9c085dc0d1c5ea878e27ef85e2633dfb7ff2223aa14be3b00ae33478c6ef2335"
+hash = "6ff0459e53f8bc6d77862c242f96b321db7d99cc27398ced9cf7c94a39814ad0"
 metafile = true
 
 [[files]]
@@ -543,16 +543,6 @@ hash = "7815e5a589de0c02a62ae83590e1f75f4d0c269e48f2435ce2ac448976ddf49f"
 metafile = true
 
 [[files]]
-file = "mods/sable-(create-aeronautics)-collision-damage.pw.toml"
-hash = "0cc1b69ce72c5c2c685b576df66bd89a30f9939c79f4a6d86abe741e7a47e0b0"
-metafile = true
-
-[[files]]
-file = "mods/sable-destructive.pw.toml"
-hash = "0fb19933c4572a3f0a938798ec1238210e8e400e6277fbf4433c9998641f8185"
-metafile = true
-
-[[files]]
 file = "mods/sable-drive-by-wire-tfmg-engine-controller-support.pw.toml"
 hash = "60b041da19d898deb3712641794ce30761d28d3f3995eaf274dedcb6b0da4877"
 metafile = true
@@ -648,16 +638,6 @@ metafile = true
 [[files]]
 file = "mods/vanillabackport.pw.toml"
 hash = "ef6ec054264f943b1391d230317264f146057b9e3b07e99f4c383c324831b190"
-metafile = true
-
-[[files]]
-file = "mods/veil.pw.toml"
-hash = "8bf0cca542f7e964d7be8d0d409a75aa3d616aee62af564fcdce88d4bb6ffe9d"
-metafile = true
-
-[[files]]
-file = "mods/voxy-auto-lod.pw.toml"
-hash = "4bb3ca2ec599f413aa6e701ba7e6b50c3859ff02eaf6ae5409cdaac6fb962565"
 metafile = true
 
 [[files]]
