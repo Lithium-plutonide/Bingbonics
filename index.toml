@@ -30,7 +30,7 @@ hash = "1da596b3fb2ce93db4ce123b68f6bba9bfdf76cf5f63089816c529934aae2dc0"
 
 [[files]]
 file = "mods/advanced-backups.pw.toml"
-hash = "6ff0459e53f8bc6d77862c242f96b321db7d99cc27398ced9cf7c94a39814ad0"
+hash = "9c085dc0d1c5ea878e27ef85e2633dfb7ff2223aa14be3b00ae33478c6ef2335"
 metafile = true
 
 [[files]]
@@ -647,7 +647,7 @@ metafile = true
 
 [[files]]
 file = "mods/wakes-reforged.pw.toml"
-hash = "bb8b5e8c8e488ce55f4afd50b2246afcd649f59989389395ff75331f5cd51f72"
+hash = "aae5db2e86db9afbf6a56991ea436a04807663209a9f849e4fc538193d730fc8"
 metafile = true
 
 [[files]]
