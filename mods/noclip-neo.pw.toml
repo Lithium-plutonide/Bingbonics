@@ -1,5 +1,5 @@
 name = "Noclip NEO"
-filename = "noclipneo-2.2.1 neoforge -1.21.1.jar"
+filename = "noclipneo-2.2.1 neoforge -1.21.1.jar.disabled"
 side = "both"
 
 [download]

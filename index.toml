@@ -184,7 +184,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics-toolgun.pw.toml"
-hash = "3cbdb270553a3b32f51f916dffd8b0ef37f427ca4f5daf28bc4fff63dcc54613"
+hash = "bc8e973498380bf0bbcfe26da585575097a9a9d168cba68e328e09e453d603e3"
 metafile = true
 
 [[files]]
@@ -310,6 +310,11 @@ metafile = true
 [[files]]
 file = "mods/createaddition.pw.toml"
 hash = "5b529724427fd8b04538c2f49cc8f9b38de49fe46218eb9e07f955f5725d727a"
+metafile = true
+
+[[files]]
+file = "mods/discord-chat-connect.pw.toml"
+hash = "61394a707cc61d948dca670b8ccb9b16ee0bcf22b3d60d3501990172ddf4e684"
 metafile = true
 
 [[files]]
@@ -484,7 +489,7 @@ metafile = true
 
 [[files]]
 file = "mods/noclip-neo.pw.toml"
-hash = "c80d31de8c1296bfdc265f2b55296ac38e5e4b5ac82c62687c45c71738daa295"
+hash = "3f391e47c32a309e95f31fbdfc61fe7743c441b29c08e5a669f4fa1701e9225a"
 metafile = true
 
 [[files]]
