@@ -209,7 +209,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
-hash = "47a456dc38c5bfa9604ad2ecb0627cf5271132a022fc0867b6059f92e841203d"
+hash = "a76b3b07c25a8ea8c2797328d0d531f64dfbce5a662f343f833bd9857285286f"
 metafile = true
 
 [[files]]
@@ -496,6 +496,10 @@ metafile = true
 file = "mods/noclip-neo.pw.toml"
 hash = "3f391e47c32a309e95f31fbdfc61fe7743c441b29c08e5a669f4fa1701e9225a"
 metafile = true
+
+[[files]]
+file = "mods/noklyp-1.21.1-1.0.0.jar"
+hash = "691359f3ca3afd038c75a305f5cf185277509714cf9d00737b8a6829bdf36cee"
 
 [[files]]
 file = "mods/notenoughcrashes.pw.toml"
