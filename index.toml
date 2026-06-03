@@ -308,6 +308,10 @@ hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
 
 [[files]]
+file = "mods/create_radars_nbtac_fix-1.0.jar"
+hash = "9e40e4cc492a13166752b5377b1611da942fd4eef7d091dcfdcaa247e8cbf62d"
+
+[[files]]
 file = "mods/createaddition.pw.toml"
 hash = "5b529724427fd8b04538c2f49cc8f9b38de49fe46218eb9e07f955f5725d727a"
 metafile = true
