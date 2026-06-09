@@ -44,7 +44,10 @@
             "createdeco:props_tab",
             "railways:tracks",
             "powergrid:main",
-            "vanillabackport:vanilla_backport"
+            "vanillabackport:vanilla_backport",
+            "computercraft:tab",
+            "advancedperipherals:advancedperipherals",
+            "create_submarine:abyss_tab"
 
         ]
     }

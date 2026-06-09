@@ -1,19 +1,14 @@
 [
   {
     "action": "modify_tab",
-    "tab": [
-      "copycats:functional"
-    ],
+    "tabs": ["copycats:functional"],
     "add_items": [
       "sim_copycats:*"
     ]
   },
   {
     "action":"remove_tab",
-    "tabs": [
-        "sim_copycats:tab"
-    ]
-
-    }
+    "tabs": ["sim_copycats:tab"]
+  }
   
 ]
