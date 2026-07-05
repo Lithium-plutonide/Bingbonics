@@ -1,13 +1,13 @@
 name = "Sable: True Impact"
-filename = "sabletrueimpact-1.1.0-gamma.jar"
+filename = "true_impact-1.1.0-gamma-hotfix.jar.disabled"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/PskD6LDU/versions/YJkRej8n/sabletrueimpact-1.1.0-gamma.jar"
+url = "https://cdn.modrinth.com/data/PskD6LDU/versions/20SNzAds/true_impact-1.1.0-gamma-hotfix.jar"
 hash-format = "sha512"
-hash = "4786829f85e9aef7c3829623b06d101d324baced0287085b259ccd6bf81137d27e8cd5ab08963dd0a20ce682acaf0af20ecd709b3489ee3d107c0d59fa4f91c9"
+hash = "30c9ec119659deacf09762436eaf50e6432121a78ebc68c822d8327a5bbe21f85e0af8bbcaa6fd371c3d986df5c0aa3f87443118b9356dce8418debd6aa79b14"
 
 [update]
 [update.modrinth]
 mod-id = "PskD6LDU"
-version = "YJkRej8n"
+version = "20SNzAds"
