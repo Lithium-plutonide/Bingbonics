@@ -3,3 +3,4 @@
 .packwizignore
 config/worldedit/.archive-unpack/**
 .connector
+update.bat

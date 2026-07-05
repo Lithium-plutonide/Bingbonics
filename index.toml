@@ -739,7 +739,3 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
 metafile = true
-
-[[files]]
-file = "update.bat"
-hash = "d73ae1232c5916b26087a97513a42e832defcb57eadde673cf86f51f2080ed98"
