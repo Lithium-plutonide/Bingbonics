@@ -25,26 +25,8 @@ file = "config/wakes-client.toml"
 hash = "ba94bdfbd6417075f19757af53bf0b6a6a7e4663d3f767bb63a3039e3e062934"
 
 [[files]]
-file = "mods/Create_Sable_LambDynamicLights_2.4.1.jar"
-hash = "5966e447c596d1dfae9653eb377d5d8ba5bdbff97b426792663ca945c2b4ddf2"
-
-[[files]]
-file = "mods/SSRD-0.5-1.21.1.jar"
-hash = "1da596b3fb2ce93db4ce123b68f6bba9bfdf76cf5f63089816c529934aae2dc0"
-
-[[files]]
-file = "mods/advanced-backups.pw.toml"
-hash = "9c085dc0d1c5ea878e27ef85e2633dfb7ff2223aa14be3b00ae33478c6ef2335"
-metafile = true
-
-[[files]]
 file = "mods/advancedperipherals.pw.toml"
 hash = "b2890f92c87f48cb45a0d8053f69afdbee6ce828c07cd0d7d4c3fd7c201e3eb0"
-metafile = true
-
-[[files]]
-file = "mods/aeronautics-dyeable-components.pw.toml"
-hash = "b218b7696365829e01cc3b6844913c757836d1ebdb0c49a9abf7a7fcbc0f6678"
 metafile = true
 
 [[files]]
@@ -209,11 +191,6 @@ metafile = true
 [[files]]
 file = "mods/create-big-cannons-advanced-technologies.pw.toml"
 hash = "2de7339944ca4d988001c6cf30e9bf793cce8e18b6519fa3209afa8fb6ee3f94"
-metafile = true
-
-[[files]]
-file = "mods/create-big-cannons-equally-opposite.pw.toml"
-hash = "a6b68c1b0ebcaf4fa95013256679946adfc828a842a7ee9ae3579f7de135cadb"
 metafile = true
 
 [[files]]
@@ -436,11 +413,6 @@ hash = "99bea71046529d65463fc12acb505ab363c91133ebbcc1d976e49a5d33150702"
 metafile = true
 
 [[files]]
-file = "mods/lambdynamiclights.pw.toml"
-hash = "5c460d59c1391b2dc79ee408d94e32293fcbcc919127dc80dc508a4c96fd5795"
-metafile = true
-
-[[files]]
 file = "mods/lever-drugster.pw.toml"
 hash = "3deaa7765b7e1e1349058630bdfa75d555c3bdfd90075a8553403d62e188aeca"
 metafile = true
@@ -516,11 +488,6 @@ hash = "89e9327582a6407b132122634377db2b467d0035f4c0e56170bd4245f11ae649"
 metafile = true
 
 [[files]]
-file = "mods/noclip-neo.pw.toml"
-hash = "3f391e47c32a309e95f31fbdfc61fe7743c441b29c08e5a669f4fa1701e9225a"
-metafile = true
-
-[[files]]
 file = "mods/noklyp-1.21.1-1.0.0.jar"
 hash = "691359f3ca3afd038c75a305f5cf185277509714cf9d00737b8a6829bdf36cee"
 
@@ -562,11 +529,6 @@ metafile = true
 [[files]]
 file = "mods/recreative-neoforge-1.21.1-1.5.0-patched.jar"
 hash = "5c7cd4b2fc1a4a680ff7c25e7f5d4e903b96cfa9bedd9ea8cd2c1675d3303a4a"
-
-[[files]]
-file = "mods/recreative.pw.toml"
-hash = "64db626ca87630a3aaffb96e1d3e44b1e3986d0e2961d24846bf43c51323a31d"
-metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
@@ -618,10 +580,6 @@ hash = "b62e1a32d2d6a18ea848f58d629f9caf5565a90495de33cdfbebd041c735c07b"
 metafile = true
 
 [[files]]
-file = "mods/shtreimel-neoforge-1.21.1-0.3.1-obf.jar"
-hash = "3aebf4cd855a12424976916a90a1a464e8cfe3c2a1df511b9ef1106bec7bc966"
-
-[[files]]
 file = "mods/simple-backups.pw.toml"
 hash = "b3b444ca79a5786d5c7589a7119fcf4c3e4cf73c70860c17acb63c88fc06749a"
 metafile = true
@@ -659,11 +617,6 @@ metafile = true
 [[files]]
 file = "mods/sodium-options-api.pw.toml"
 hash = "2400971093338141449d5e17a825dd34b0f26f4610e48654bcc682b0e91b5b4a"
-metafile = true
-
-[[files]]
-file = "mods/sodium-options-mod-compat.pw.toml"
-hash = "db3a69e90a4b4c59fadd7ba59bdf9047e9c25122d77d422909854426fe2d3c72"
 metafile = true
 
 [[files]]
