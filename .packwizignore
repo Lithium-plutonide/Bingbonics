@@ -2,4 +2,4 @@
 .gitattributes
 .packwizignore
 config/worldedit/.archive-unpack/**
-.connector/temp
+.connector

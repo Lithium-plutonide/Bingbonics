@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "4a39a26a8b6e96baf8195db0d3101ec1ffec344a2497a9d50d68cb4f11d7f434"
+hash = "5d9f4481b52b8644505b6d8c2339353cbeb5e1646b520a31444fce6a4c671dba"
 
 [[files]]
 file = "config/recreative/aero_tools.json"
@@ -23,98 +23,6 @@ hash = "dde344d0fdfecb0cf804dc0b74d28cb6b99b2b109f5bcf0f30e92d8b94f2b740"
 [[files]]
 file = "config/wakes-client.toml"
 hash = "ba94bdfbd6417075f19757af53bf0b6a6a7e4663d3f767bb63a3039e3e062934"
-
-[[files]]
-file = "mods/.connector/patch_audit.txt"
-hash = "894031c9414569a71d4b44ca525c654d5d07f848afad79c2a3a57cbb025421e4"
-
-[[files]]
-file = "mods/.connector/voxy-0.2.14-alpha-9228aa0eb0181331db1f70d83b8227a64a8e0ead$commons-pool2-2.12.0_mapped_moj_1.21.1.jar"
-hash = "20d4f943a6d018b0e3c62ede84ce89a785e34ceb5d0155789c3e61f6e78a2c8d"
-
-[[files]]
-file = "mods/.connector/voxy-0.2.14-alpha-9228aa0eb0181331db1f70d83b8227a64a8e0ead$commons-pool2-2.12.0_mapped_moj_1.21.1.jar.input"
-hash = "928b6e775793806d16300d36d888db8a37b18ebacee17c149437964fa80170ab"
-
-[[files]]
-file = "mods/.connector/voxy-0.2.14-alpha-9228aa0eb0181331db1f70d83b8227a64a8e0ead$jedis-5.1.0_mapped_moj_1.21.1.jar"
-hash = "677988068e3b1f0ace8e47bd4478f1d2b3140f93d7fa18087fdc56e9ddcf60a4"
-
-[[files]]
-file = "mods/.connector/voxy-0.2.14-alpha-9228aa0eb0181331db1f70d83b8227a64a8e0ead$jedis-5.1.0_mapped_moj_1.21.1.jar.input"
-hash = "c5be84b522d89c9b56ddb069081212d146fab6c637a2995b19e6e70e213b03b8"
-
-[[files]]
-file = "mods/.connector/voxy-0.2.14-alpha-9228aa0eb0181331db1f70d83b8227a64a8e0ead$lwjgl-lmdb-3.3.3-natives-linux_mapped_moj_1.21.1.jar"
-hash = "3aac70a9d156e6dbd0742182c3f134de3477118c31228ceac78bd8fd668e4be9"
-
-[[files]]
-file = "mods/.connector/voxy-0.2.14-alpha-9228aa0eb0181331db1f70d83b8227a64a8e0ead$lwjgl-lmdb-3.3.3-natives-linux_mapped_moj_1.21.1.jar.input"
-hash = "449f64d344163e32af25b1769a7c2678b21455e5cba7d6b692cbd2d2d9f2f9f1"
-
-[[files]]
-file = "mods/.connector/voxy-0.2.14-alpha-9228aa0eb0181331db1f70d83b8227a64a8e0ead$lwjgl-lmdb-3.3.3-natives-windows_mapped_moj_1.21.1.jar"
-hash = "0090f59f870684956289db03a2a3e23a3e7c1003bb53692f102eff0f4cbcefc7"
-
-[[files]]
-file = "mods/.connector/voxy-0.2.14-alpha-9228aa0eb0181331db1f70d83b8227a64a8e0ead$lwjgl-lmdb-3.3.3-natives-windows_mapped_moj_1.21.1.jar.input"
-hash = "6819eb1f91ae6c8162a3a5801195967f93d01e80f7e0a98d756c989d70fbebd1"
-
-[[files]]
-file = "mods/.connector/voxy-0.2.14-alpha-9228aa0eb0181331db1f70d83b8227a64a8e0ead$lwjgl-lmdb-3.3.3_mapped_moj_1.21.1.jar"
-hash = "29bc92195ebe50a679550e4af466882d50e8204a93378e52b3f1b9c2e31ad1b2"
-
-[[files]]
-file = "mods/.connector/voxy-0.2.14-alpha-9228aa0eb0181331db1f70d83b8227a64a8e0ead$lwjgl-lmdb-3.3.3_mapped_moj_1.21.1.jar.input"
-hash = "6949aa0f08757feff23889fd341212eb3c328b0457af3f613fbff98adb0da5fe"
-
-[[files]]
-file = "mods/.connector/voxy-0.2.14-alpha-9228aa0eb0181331db1f70d83b8227a64a8e0ead$lwjgl-zstd-3.3.3-natives-linux_mapped_moj_1.21.1.jar"
-hash = "f98e1869794176b6191abd0d54a7ac80213d255bb4d42d67784d8f1c157033bd"
-
-[[files]]
-file = "mods/.connector/voxy-0.2.14-alpha-9228aa0eb0181331db1f70d83b8227a64a8e0ead$lwjgl-zstd-3.3.3-natives-linux_mapped_moj_1.21.1.jar.input"
-hash = "d6413f78b7fdd56c943aa9ce103e37ee28f4548825552c3d2e41e7a7bf8464fe"
-
-[[files]]
-file = "mods/.connector/voxy-0.2.14-alpha-9228aa0eb0181331db1f70d83b8227a64a8e0ead$lwjgl-zstd-3.3.3-natives-windows_mapped_moj_1.21.1.jar"
-hash = "58bd6e35a553dad97d603338528213f7f9ba1173935514be7930c881d9010080"
-
-[[files]]
-file = "mods/.connector/voxy-0.2.14-alpha-9228aa0eb0181331db1f70d83b8227a64a8e0ead$lwjgl-zstd-3.3.3-natives-windows_mapped_moj_1.21.1.jar.input"
-hash = "7b5c06f64ebb2dc5083127961f2487a0469acb5ef777c314d307e413e591e223"
-
-[[files]]
-file = "mods/.connector/voxy-0.2.14-alpha-9228aa0eb0181331db1f70d83b8227a64a8e0ead$lwjgl-zstd-3.3.3_mapped_moj_1.21.1.jar"
-hash = "7f77702b7b4f689ed07e5a193e271b27ce085134d53998ae61842fe13c39216b"
-
-[[files]]
-file = "mods/.connector/voxy-0.2.14-alpha-9228aa0eb0181331db1f70d83b8227a64a8e0ead$lwjgl-zstd-3.3.3_mapped_moj_1.21.1.jar.input"
-hash = "521be3608c909d298c9dae3208663055dfb761b1700d9ea67654d8994c010b78"
-
-[[files]]
-file = "mods/.connector/voxy-0.2.14-alpha-9228aa0eb0181331db1f70d83b8227a64a8e0ead$rocksdbjni-10.2.1_mapped_moj_1.21.1.jar"
-hash = "31d376b19babccbdaa909e2b6cb463da9c62072239d3d9153e7f018a1424e44e"
-
-[[files]]
-file = "mods/.connector/voxy-0.2.14-alpha-9228aa0eb0181331db1f70d83b8227a64a8e0ead$rocksdbjni-10.2.1_mapped_moj_1.21.1.jar.input"
-hash = "0ebbe6f4b4994d42296324f63c1f78330b8d90254021e4c7915f0442c4815c05"
-
-[[files]]
-file = "mods/.connector/voxy-0.2.14-alpha-9228aa0eb0181331db1f70d83b8227a64a8e0ead$xz-1.10_mapped_moj_1.21.1.jar"
-hash = "12b4b007e6ea54692fa986f242be7f7085a34a4b7c68d3b29071ca3ed2e84469"
-
-[[files]]
-file = "mods/.connector/voxy-0.2.14-alpha-9228aa0eb0181331db1f70d83b8227a64a8e0ead$xz-1.10_mapped_moj_1.21.1.jar.input"
-hash = "a582e796b67f34f47fecafc0594c1312b5b7c90d27e619ccba60ddc7d3b68ff7"
-
-[[files]]
-file = "mods/.connector/voxy-0.2.14-alpha-9228aa0eb0181331db1f70d83b8227a64a8e0ead_mapped_moj_1.21.1.jar"
-hash = "edd85be97fe1a69b56d10370f457ca8ad2fc1c55378ec38c51f96d504d2c0a76"
-
-[[files]]
-file = "mods/.connector/voxy-0.2.14-alpha-9228aa0eb0181331db1f70d83b8227a64a8e0ead_mapped_moj_1.21.1.jar.input"
-hash = "e562578c51b616092ac53e3bf5b3fee86fb4181c560eb42f699341cd6e0b893c"
 
 [[files]]
 file = "mods/Create_Sable_LambDynamicLights_2.4.1.jar"
