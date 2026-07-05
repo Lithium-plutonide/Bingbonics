@@ -1,5 +1,4 @@
 .git/**
 .gitattributes
 .packwizignore
-*.disabled
 config/worldedit/.archive-unpack/**

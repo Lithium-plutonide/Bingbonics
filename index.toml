@@ -2,11 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "5d9f4481b52b8644505b6d8c2339353cbeb5e1646b520a31444fce6a4c671dba"
+hash = "4a39a26a8b6e96baf8195db0d3101ec1ffec344a2497a9d50d68cb4f11d7f434"
 
 [[files]]
 file = "config/recreative/aero_tools.json"
 hash = "cc0b4acc353cc478e0cfee510bc55d7b8b9031c2e9aa55366b9e997d380ec70c"
+
+[[files]]
+file = "config/recreative/example_tabs.json.disabled"
+hash = "ec4da0e45340edbd147efb3a76a370cd48bf9fc159607bed2e8f97ec0819a7a7"
 
 [[files]]
 file = "config/recreative/functional_copycat.json"
