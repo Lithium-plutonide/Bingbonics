@@ -9,6 +9,10 @@ file = "config/recreative/aero_tools.json"
 hash = "cc0b4acc353cc478e0cfee510bc55d7b8b9031c2e9aa55366b9e997d380ec70c"
 
 [[files]]
+file = "config/recreative/copycats.json"
+hash = "4ccd7d9d0a26583e0aca542298c0f85f937308c7be8bed1450bd22faa4acd8c0"
+
+[[files]]
 file = "config/recreative/example_tabs.json.disabled"
 hash = "ec4da0e45340edbd147efb3a76a370cd48bf9fc159607bed2e8f97ec0819a7a7"
 
@@ -170,7 +174,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics-toolgun.pw.toml"
-hash = "4e327bfce14dc51bf11ae59b466ce1d75f3c48245cb3dbfb8aa306ebe5a87744"
+hash = "2ee1658abd1dc7134dac94b329fc913e12d4e2d1cb235ba2c2e34d81efd4f900"
 metafile = true
 
 [[files]]
@@ -245,7 +249,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-framed.pw.toml"
-hash = "c6f449a5dbd6640cef3a2d46f198af505b1d3fe7cb38c43057bb16ea055c3d7f"
+hash = "db683b65dc15a03dd6de2d34d5dc6ad0e3490744ced513a8cc584784ee9d3d8b"
 metafile = true
 
 [[files]]
@@ -389,7 +393,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "e22f8ce274c0473d3ce96d67766cd9420651d2bd6712371eb025cd2b6e39ec53"
+hash = "7a1cf860c2761f6ae16333f869c75bb2af1d079c61b7f94e6af3265886f4dec0"
 metafile = true
 
 [[files]]
@@ -424,7 +428,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "6cb90789f0adf2996fd38d3bb22d3e6e09fe00d25653ed5012e8f10846ed6df7"
+hash = "e06a9a886181277591baeb9e82b484bd6204fe3aec0ffc8781bb05bb11b4d1a9"
 metafile = true
 
 [[files]]
@@ -575,6 +579,11 @@ hash = "beaf0e4a0bd85a55b7ee50c5c2ce91d61112f29fce3bbc8c1d9544a774388744"
 metafile = true
 
 [[files]]
+file = "mods/scholar.pw.toml"
+hash = "9236aaac552861f727a9a3baaf2d535eb45ccb5103a6f87a6c56653039f83c6c"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "b62e1a32d2d6a18ea848f58d629f9caf5565a90495de33cdfbebd041c735c07b"
 metafile = true
@@ -591,7 +600,7 @@ metafile = true
 
 [[files]]
 file = "mods/skinrestorer.pw.toml"
-hash = "c3f5faaeb11e79441d4dc7b082299af9024d4cb32a06e2fb9b58de7d577cf0c5"
+hash = "b86f2920690794546b2bbd0b700add840b2be0fe2469a64e2d80a8776c68e41e"
 metafile = true
 
 [[files]]

@@ -1,0 +1,9 @@
+[
+  {
+    "action": "modify_tab",
+    "tabs": ["copycats:main"],
+    "add_items": [
+      "create:copycat_step"
+    ]
+  }
+]
