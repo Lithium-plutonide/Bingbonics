@@ -15,17 +15,17 @@
             "recreative:aero_tools",
             "create:base",
             "simulated:main_tab",
-            "create_connected:main",
+            "createpropulsion:main_tab",
             "railways:main",
             "createdieselgenerators:cdg_creative_tab",
             "tfmg:tfmg_main",
             "createbigcannons:base",
-            "create_radar:radar",
+            "create_connected:main",
             "createcasing:tab",
             "farmersdelight:farmersdelight",
             "alexsmobs:alexsmobs",
             "waystones:waystones",
-            "create_power_loader:main",
+            "create_radar:radar",
             "numismatics:main",
             "create_enchantment_industry:base",
             "cbc_at:simple_tab",
@@ -47,7 +47,8 @@
             "vanillabackport:vanilla_backport",
             "computercraft:tab",
             "advancedperipherals:advancedperipherals",
-            "create_submarine:abyss_tab"
+            "create_submarine:abyss_tab",
+            "create_power_loader:main"
 
         ]
     }
