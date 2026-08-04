@@ -1,11 +1,11 @@
 name = "Bingbonics"
-version = "1.1.1"
+version = "1.1.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b8f2b35cddb3d5448f7d64e547038398f13784432203fa87db3d064c865fcec4"
+hash = "3a785a8470f92b363f0490443acd9515e583239d7ee9e614417efe3b6c1ce163"
 
 [versions]
 minecraft = "1.21.1"

@@ -75,6 +75,11 @@ hash = "44302c0b9c5e79066d77346140e933c9bda958326ffdf679df98987622b2d4e4"
 metafile = true
 
 [[files]]
+file = "mods/cacb.pw.toml"
+hash = "5280b9f899371e519ece565435f75b479354370211e04677952c682d23566d83"
+metafile = true
+
+[[files]]
 file = "mods/cc-sable.pw.toml"
 hash = "253a414e73f57c890ae5e03f49517191267b1bef0a89252ae1221748cd0de4f9"
 metafile = true
@@ -151,11 +156,6 @@ metafile = true
 [[files]]
 file = "mods/create-aeronautics-climbable-rope.pw.toml"
 hash = "db2ec960ce42b3d381003c82cff71e68a7c55c68117c3bf43ad2418111260065"
-metafile = true
-
-[[files]]
-file = "mods/create-aeronautics-compatability.pw.toml"
-hash = "d66f3ca71587c7ab8076f4a0154b0d3aa2f043c29c6373f2b8b2e5d6c3c3e91f"
 metafile = true
 
 [[files]]
