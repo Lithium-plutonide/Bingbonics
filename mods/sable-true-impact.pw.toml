@@ -1,13 +1,13 @@
 name = "Sable: True Impact (For Create: Aeronautics)"
-filename = "true_impact-1.1.0-gamma-hotfix.jar.disabled"
+filename = "true_impact-0.5.7-delta.jar.disabled"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/PskD6LDU/versions/20SNzAds/true_impact-1.1.0-gamma-hotfix.jar"
+url = "https://cdn.modrinth.com/data/PskD6LDU/versions/MuLiB7bA/true_impact-0.5.7-delta.jar"
 hash-format = "sha512"
-hash = "30c9ec119659deacf09762436eaf50e6432121a78ebc68c822d8327a5bbe21f85e0af8bbcaa6fd371c3d986df5c0aa3f87443118b9356dce8418debd6aa79b14"
+hash = "9396955793b5281612793b1df0fed10ab75755da28fbdbecf651aec58ecea96e851f7f72158e1c521e4e83fd107874621eb6a7b0d14b9631067d175d71aab697"
 
 [update]
 [update.modrinth]
 mod-id = "PskD6LDU"
-version = "20SNzAds"
+version = "MuLiB7bA"
