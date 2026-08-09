@@ -1,5 +1,5 @@
 #Disable the mod functionality
-disableMod = false
+disableMod = true
 pickBoat = true
 #List of fluid IDs that can produce wakes
 fluidWhitelist = ["minecraft:water", "minecraft:flowing_water", "tfc:salt_water", "tfc:spring_water", "tfc:river_water"]
