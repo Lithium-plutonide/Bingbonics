@@ -76,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/cacb.pw.toml"
-hash = "f0b2c6dbe1b8c375a6b5e001f25947c33feb3daf7865ddbf8fd748b9ff1f635b"
+hash = "e2843bc0658e6c60a5a90951bcbf55166046b990866987bdeb4ce90c0489405b"
 metafile = true
 
 [[files]]
@@ -86,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "14f862ceab11545e0a446df8c91c95ae7434ca4975db1357ad2001b6ec321e45"
+hash = "e42363c32c9b6323eea977283c928cec373bfc415534ec92e9c3367ee8c54256"
 metafile = true
 
 [[files]]
@@ -165,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics-throwable-rope-connector.pw.toml"
-hash = "9752ce3ebba804bd7c27d6b2bbb17d8d870594fc6b7fabbb60ef122677a5b8b8"
+hash = "5bb86f3d316aed529fdaab61316f65987c2098093421bac194b126208b82c895"
 metafile = true
 
 [[files]]
@@ -185,7 +185,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeroworks.pw.toml"
-hash = "d6a416c2c87e593a23bbc79856079a4e6bd3875c2f020a557c3b2011438dd178"
+hash = "8bc79b14b3fa74bbb49550cf543a1f4b6303e8e09c1f73125a022783e9d02711"
 metafile = true
 
 [[files]]
@@ -418,6 +418,11 @@ hash = "99bea71046529d65463fc12acb505ab363c91133ebbcc1d976e49a5d33150702"
 metafile = true
 
 [[files]]
+file = "mods/lanterns-bow.pw.toml"
+hash = "949619e2c747809e668da31382a3fd6db95aef8f38818980df8d1537091549a0"
+metafile = true
+
+[[files]]
 file = "mods/lever-drugster.pw.toml"
 hash = "8424713cff9ab8667f0c10791a3777aa331c7ea928c563a668b153cb7dbe3a67"
 metafile = true
@@ -449,7 +454,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "1707b4f1e3df638815211af1336c4d565d7eeae0b629527f1f9cd14eae9c0335"
+hash = "14fc787461cc4464d476454c0d06b7ecbc988e5582d51d527a43a450be9de92d"
 metafile = true
 
 [[files]]
@@ -582,7 +587,7 @@ metafile = true
 
 [[files]]
 file = "mods/scholar.pw.toml"
-hash = "5678906e07766684d2586009d338363a95747b4c489624d8906318d0150aae31"
+hash = "0494bf33dd41c156edd51c50b443926a1c311548fdf74cd73ac1577b02555025"
 metafile = true
 
 [[files]]
@@ -671,7 +676,7 @@ metafile = true
 
 [[files]]
 file = "mods/wakes-reforged.pw.toml"
-hash = "c170c3dd60f365ba7976ae8c143799a9ca07c8651c0b4b39cf6a43f45628d437"
+hash = "f80b5986f2e195be36f67edb9e489eb8e6ac977e6322647492d57a0b8b0c3d10"
 metafile = true
 
 [[files]]

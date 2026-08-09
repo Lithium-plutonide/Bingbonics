@@ -1,13 +1,13 @@
 name = "Create-Aeronautics:Compatibility + Bug fixes"
-filename = "fuck-sable-1.7.19.jar"
+filename = "fuck-sable-1.7.20.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/YS1hdEUp/versions/V00oHSnc/fuck-sable-1.7.19.jar"
+url = "https://cdn.modrinth.com/data/YS1hdEUp/versions/Eze2xq9H/fuck-sable-1.7.20.jar"
 hash-format = "sha512"
-hash = "39ca7f8a71a97a6690508d8b49cef4f16816a33aed5520b08bb09edeb324df8420ad5e86dadf6197948a9dbedf5b58f9d088d440c26e9b712922ecdb07b0be81"
+hash = "4feabb1663c8455ebc1553e55fe56bd53d680838e1f37401adbec2a4ec1dec3a9bd0a28bcd4a64524343b10df322cf55c20abe69aafa2de2b2a5c09c457e1eb2"
 
 [update]
 [update.modrinth]
 mod-id = "YS1hdEUp"
-version = "V00oHSnc"
+version = "Eze2xq9H"
