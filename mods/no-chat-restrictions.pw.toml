@@ -1,6 +1,6 @@
 name = "No Chat Restrictions"
 filename = "NoChatRestrictions-NeoForge-MC1.21.11-v1.0.0.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/z440MEwJ/versions/GtCgmBXp/NoChatRestrictions-NeoForge-MC1.21.11-v1.0.0.jar"

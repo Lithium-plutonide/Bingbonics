@@ -1,6 +1,6 @@
 name = "Jade Sable Compat"
 filename = "sablejade-1.2.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/jCrJ4iGH/versions/7HFg7hFp/sablejade-1.2.1.jar"

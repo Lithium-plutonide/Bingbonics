@@ -1,6 +1,6 @@
 name = "Sable: Mass view (Create Aeronautics)"
 filename = "sablemassview-1.0.0.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/f5uobnkD/versions/Dc1FsCO5/sablemassview-1.0.0.jar"
