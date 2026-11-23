@@ -1,13 +1,13 @@
 name = "NBT Autocomplete"
-filename = "NBTac-NEOFORGE-1.21.1-1.3.10.jar"
+filename = "NBTac-NEOFORGE-1.21.1-2.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/UR0ocuEt/versions/XMsa6AUE/NBTac-NEOFORGE-1.21.1-1.3.10.jar"
+url = "https://cdn.modrinth.com/data/UR0ocuEt/versions/2Qvhsbeo/NBTac-NEOFORGE-1.21.1-2.1.jar"
 hash-format = "sha512"
-hash = "6e5fe603315c6e0e2b88df6480bdcc1b3453579a56cbca2625e969d183b4805ff37321b88ff6352c4bb376319539ee62f4dfec2bc76268bdcecd013d573d943a"
+hash = "b66f78a521a0923534315f4859531877aff3c0c870e207312caed47890f7ca33521ec89ba8668f941062509f7c9bf04cbaf5e25fab71d34f5a125dab85dd1beb"
 
 [update]
 [update.modrinth]
 mod-id = "UR0ocuEt"
-version = "XMsa6AUE"
+version = "2Qvhsbeo"

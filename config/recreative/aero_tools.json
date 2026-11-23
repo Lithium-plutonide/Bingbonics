@@ -5,7 +5,7 @@
         "name": "Aero Tools & Stuff",
         "icon": "create_aeronautics_toolgun:portable_structure_container",
         "items": [
-            "aeroworks:*",
+            "sablecleanup:remote",
             "simulated:creative_physics_staff",
             "create_aeronautics_toolgun:*",
             "drivebywire:*",
@@ -27,7 +27,9 @@
             "aeronautics_utility_objects:universal_joint_rod2",
             "aeronautics_utility_objects:hydraulic_rod",
             "aeronautics_utility_objects:creative_hydraulic_rod",
-            "aeronautics_utility_objects:damping_stress_bearing"
+            "aeronautics_utility_objects:damping_stress_bearing",
+
+            "aeroworks:*"
                 ]
         
     },
@@ -42,7 +44,8 @@
             "worldedit_items:worldedititemstab",
             "vsfluidlink:vs_fluid_link_tab",
             "create_aeronautics_throwable_rope_connector:main",
-            "aeronautics_utility_objects:main"
+            "aeronautics_utility_objects:main",
+            "sablecleanup:sablecleanup"
         ]
 
     }
